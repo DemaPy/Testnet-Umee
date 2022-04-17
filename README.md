@@ -1,6 +1,8 @@
 # Testnet-Umee
 Incentivized Testnet Umeemania
-Here we should test Umee Boroow and Landing protocol.
+**Here we should test Umee Boroow and Landing protocol.**
+
+Click on URL, you can see more details!
 
 https://miro.medium.com/max/1400/1*JZ5Bdap0E344EWnHURg4OA.png
 
